@@ -48,6 +48,10 @@ Image Uploading:
   - https://github.com/stavro/arc
 
 
+
+Amazon AWS
+  - https://github.com/CargoSense/ex_aws - A flexible, easy to use set of clients AWS APIs for Elixir
+
 Utilities:
   - https://github.com/houshuang/elixir-prelude - Utility functions for Elixir
   - https://github.com/mykewould/crutches - some ActiveSupport like functions
