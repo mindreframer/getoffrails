@@ -3,23 +3,11 @@ Get Off Rails Guide:
 
 
 Ecto:
-
   - http://learningwithjb.com/posts/introducing-ecto
   - github.com/parkerl/ecto_query_library
     - http://www.glydergun.com/the-ecto-query-library/ (!!!!)
     - http://www.glydergun.com/diving-into-ecto/
     - http://www.glydergun.com/a-bit-about-bindings/
-
-Test Factories:
-  - https://github.com/thoughtbot/ex_machina
-  - https://robots.thoughtbot.com/announcing-ex-machina
-  - https://github.com/igas/faker
-  - https://github.com/batate/blacksmith
-
-
-Rspec like syntax for testing (nesting + very simple):
-  - https://github.com/drewolson/ex_spec
-
 
 
 DBs:
@@ -54,3 +42,41 @@ Background Workers:
     - https://github.com/houshuang/survey/blob/master/lib/job_worker.ex
     - https://github.com/thestonefox/elixir_poolboy_example
     - https://www.reddit.com/r/elixir/comments/35agh4/asynchronous_and_background_parallel_tasks_in/
+
+
+
+Utilities:
+  - https://github.com/houshuang/elixir-prelude - Utility functions for Elixir
+  - https://github.com/mykewould/crutches - some ActiveSupport like functions
+
+
+
+
+##### Testing
+
+
+Test Factories:
+  - https://github.com/thoughtbot/ex_machina
+  - https://robots.thoughtbot.com/announcing-ex-machina
+  - https://github.com/igas/faker
+  - https://github.com/batate/blacksmith
+
+
+Rspec like syntax for testing (nesting + very simple):
+  - https://github.com/drewolson/ex_spec
+
+
+Code Quality:
+  - https://github.com/parroty/excoveralls - Test Coverage
+
+
+
+
+##### Learning
+
+
+  - https://github.com/exercism/xelixir/
+  - https://github.com/oreillymedia/etudes-for-elixir
+  - https://github.com/dojo-toulouse/elixir-koans
+  - http://elixirexperience.com/
+  - https://github.com/seven1m/30-days-of-elixir
