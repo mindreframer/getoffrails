@@ -1,7 +1,13 @@
-Get Off Rails Guide:
+### Get Off Rails Guide
+
+Rough collection of links that help you to find the building blocks to migrate your Rails app to Elixir / Phoenix
 
 
-[Ecto](https://github.com/mindreframer/getoffrails/blob/master/ecto.md)
+- [Ecto](https://github.com/mindreframer/getoffrails/blob/master/ecto.md)
+- [Background Workers](https://github.com/mindreframer/getoffrails/blob/master/background_workers.md)
+- [Testing](https://github.com/mindreframer/getoffrails/blob/master/testing.md)
+- [Learning](https://github.com/mindreframer/getoffrails/blob/master/learning.md)
+
 
 DBs:
   - Mongodb:
@@ -15,28 +21,6 @@ DBs:
     - https://github.com/artemeff/exredis ()
     - https://github.com/whatyouhide/redix (simpler, less features)
 
-
-
-Sidekiq compatible background workers:
-  - https://github.com/akira/exq -> Exq is a job processing library compatible with Resque / Sidekiq
-
-
-Background Workers:
-  - Workex:
-    https://github.com/sasa1977/workex
-
-  - toniq - Simple and reliable background job library for Elixir
-    https://github.com/joakimk/toniq
-    https://dl.dropboxusercontent.com/u/136929/elixir_oct2015_toniq/index.html
-
-
-  - DIY:
-    - https://github.com/houshuang/survey/blob/master/lib/job_worker.ex
-    - https://github.com/thestonefox/elixir_poolboy_example
-    - https://www.reddit.com/r/elixir/comments/35agh4/asynchronous_and_background_parallel_tasks_in/
-
-
-
 Image Uploading:
   - https://github.com/stavro/arc
 
@@ -48,35 +32,3 @@ Amazon AWS
 Utilities:
   - https://github.com/houshuang/elixir-prelude - Utility functions for Elixir
   - https://github.com/mykewould/crutches - some ActiveSupport like functions
-
-
-
-
-##### Testing
-
-
-Test Factories:
-  - https://github.com/thoughtbot/ex_machina
-  - https://robots.thoughtbot.com/announcing-ex-machina
-  - https://github.com/igas/faker
-  - https://github.com/batate/blacksmith
-
-
-Rspec like syntax for testing (nesting + very simple):
-  - https://github.com/drewolson/ex_spec
-
-
-Code Quality:
-  - https://github.com/parroty/excoveralls - Test Coverage
-
-
-
-
-##### Learning
-
-
-  - https://github.com/exercism/xelixir/
-  - https://github.com/oreillymedia/etudes-for-elixir
-  - https://github.com/dojo-toulouse/elixir-koans
-  - http://elixirexperience.com/
-  - https://github.com/seven1m/30-days-of-elixir
