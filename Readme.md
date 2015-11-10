@@ -5,26 +5,13 @@ Rough collection of links that help you to find the building blocks to migrate y
 
 - [Ecto](https://github.com/mindreframer/getoffrails/blob/master/ecto.md)
 - [Background Workers](https://github.com/mindreframer/getoffrails/blob/master/background_workers.md)
+- [Databases](https://github.com/mindreframer/getoffrails/blob/master/databases.md)
 - [Testing](https://github.com/mindreframer/getoffrails/blob/master/testing.md)
 - [Learning](https://github.com/mindreframer/getoffrails/blob/master/learning.md)
 
 
-DBs:
-  - Mongodb:
-    - https://github.com/ericmj/mongodb
-
-  - ElasticSearch:
-    - https://github.com/werbitzky/elastix (simple wrapper)
-
-
-  - Redis:
-    - https://github.com/artemeff/exredis ()
-    - https://github.com/whatyouhide/redix (simpler, less features)
-
 Image Uploading:
   - https://github.com/stavro/arc
-
-
 
 Amazon AWS
   - https://github.com/CargoSense/ex_aws - A flexible, easy to use set of clients AWS APIs for Elixir
