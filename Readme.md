@@ -1,15 +1,7 @@
 Get Off Rails Guide:
 
 
-
-Ecto:
-  - http://learningwithjb.com/posts/introducing-ecto
-  - http://blog.plataformatec.com.br/2015/08/working-with-ecto-associations-and-embeds/
-  - github.com/parkerl/ecto_query_library
-    - http://www.glydergun.com/the-ecto-query-library/ (!!!!)
-    - http://www.glydergun.com/diving-into-ecto/
-    - http://www.glydergun.com/a-bit-about-bindings/
-
+Ecto [...]
 
 DBs:
   - Mongodb:
