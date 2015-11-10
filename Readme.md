@@ -1,7 +1,7 @@
 Get Off Rails Guide:
 
 
-Ecto [...]
+[Ecto](https://github.com/mindreframer/getoffrails/blob/master/ecto.md)
 
 DBs:
   - Mongodb:
