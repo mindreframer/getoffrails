@@ -10,3 +10,7 @@ Ecto:
 
 UUID as Primary Key in Ecto:
   http://websymphony.net/blog/2015/06/28/how-to-use-uuid-as-primary-key-in-ecto-phoenix/
+
+
+Using Compound Unique Indexes to Validate Uniqueness of Ecto Associations
+  http://blog.praveenperera.com/using-compound-unique-indexes-to-validate-uniqueness-of-ecto-associations/
