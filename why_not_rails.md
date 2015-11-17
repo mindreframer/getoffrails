@@ -11,3 +11,30 @@ Why Functional Programming might be better than OOP:
 
 - Why involve in Open Source:
   - http://ryanbigg.com/2015/11/open-source-work/
+
+
+
+
+
+https://modelviewculture.com/pieces/the-life-cycle-of-programming-languages
+
+
+
+
+
+
+
+
+
+
+
+
+Services on Rails:
+   [A PATH TO SERVICES - PART 1 - START SMALL (2015/07/27)](http://brandonhilkert.com/blog/a-path-to-services-part-1-start-small/)
+   [A PATH TO SERVICES - PART 2 - SYNCHRONOUS VS. ASYNCHRONOUS](http://brandonhilkert.com/blog/a-path-to-services-part-2-synchronous-vs-asynchronous/)
+   [A PATH TO SERVICES - PART 3 - SYNCHRONOUS EVENTS (2015/10/15)](http://brandonhilkert.com/blog/a-path-to-services-part-3-synchronous-events/)
+
+
+
+Biggest Monoliths:
+  - https://speakerdeck.com/a_matsuda/the-recipe-for-the-worlds-largest-rails-monolith

@@ -14,3 +14,13 @@ Rspec like syntax for testing (nesting + very simple):
 
 Code Quality:
   - https://github.com/parroty/excoveralls - Test Coverage
+
+
+
+
+
+
+
+
+More unit tests!
+  - http://googletesting.blogspot.co.uk/2015/04/just-say-no-to-more-end-to-end-tests.html
