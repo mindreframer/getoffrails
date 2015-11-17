@@ -4,6 +4,8 @@
 
 
 ## Spacemacs + Alchemist:
+
+  - [Docs for Spacemacs](https://github.com/syl20bnr/spacemacs/blob/develop/doc/DOCUMENTATION.org)
   - [Spacemacs and Alchemist to make Elixir of immortality (2015/06/30)](http://zohaib.me/spacemacs-and-alchemist-to-make-elixir-of-immortality/)
 
   - https://github.com/syl20bnr/spacemacs/tree/master/layers/%2Blang/elixir#refcard
@@ -11,6 +13,9 @@
   - http://blog.christopher-atkins.com/begin-spacemacs/
   - https://www.reddit.com/r/emacs/comments/34wffl/learning_spacemacs/
   - Chatroom - https://gitter.im/syl20bnr/spacemacs
+
+
+  ->
 
 
 ## Emacs:
