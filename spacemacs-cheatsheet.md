@@ -34,5 +34,10 @@ REPL interactions
   Start an IEx process with mix (iex -S mix): SPC m s I
 
 Enable company mode for autocomplete (even in REPL)
-
   SPC + : -> search "company-mode" -> then it is enabled!
+
+
+
+
+Configuration:
+  <SPC> f e d
