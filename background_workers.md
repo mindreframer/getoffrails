@@ -2,6 +2,7 @@
 
 Sidekiq compatible background workers:
   - https://github.com/akira/exq -> Exq is a job processing library compatible with Resque / Sidekiq
+  - https://github.com/edgurgel/verk -> A job processing system that just verks! https://hex.pm/packages/verk
 
 
 Background Workers:
