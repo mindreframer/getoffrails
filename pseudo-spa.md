@@ -11,6 +11,7 @@
 
 
 - [Ajax, Pjax and Beyond (2016/05)](https://speakerdeck.com/ninthspace/ajax-pjax-and-beyond)
+- [Ditching the Single Page Application (RubyNation 2015)](https://speakerdeck.com/snhorne/ditching-the-single-page-application-rubynation-2015)
 
 
 
